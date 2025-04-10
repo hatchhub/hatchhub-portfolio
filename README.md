@@ -12,7 +12,7 @@ My specialties include:
 ## 🧰 Tech Stack
 
 - Languages: Python, JavaScript, TypeScript
-- Frameworks: Node.js, React, Next.js
+- Frameworks: Node.js, React, Next.js, Gatsby.js
 - Tools: GA4, BigQuery, Shopify, WooCommerce, GitHub Actions
 
 ## 💼 Projects
